@@ -1,5 +1,7 @@
 ## Usage
 
+![highlight to share](https://github.com/sahlhoff/highlight-to-share/blob/master/logo.png "Highlight To Share")
+
 Highlight to share is a medium style share feature.  Highlight over selected words to share the text.  Sharing to facebook and twitter.
 
 Include the html:
